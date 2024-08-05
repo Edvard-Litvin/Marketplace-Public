@@ -1,8 +1,8 @@
 {
   "displayName": "Clinical Findings3",
-  "healthRegion-fr": "Home",
+  "healthRegion": "Home",
   "jurisdiction": "",
-  "language-fr": "English",
+  "language": "French",
   "versionHistory": [
     {"version": 1, "date": "2023-01-01", "comments": ""}
     
