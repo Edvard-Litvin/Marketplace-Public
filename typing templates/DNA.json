@@ -1,6 +1,7 @@
 {
   "displayName": "DNA",
-  "healthRegion": "Fraser Health",
+  "healthRegion": "Home",
+  "healthRegion-fr": "Provincial",
   "jurisdiction": "",
   "language": "English",
   "versionHistory": [

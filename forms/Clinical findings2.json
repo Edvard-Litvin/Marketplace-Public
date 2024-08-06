@@ -1,8 +1,10 @@
 {
   "displayName": "Clinical Findings2",
-  "healthRegion": "Provincial",
+  "healthRegion": "Home",
+  "healthRegion-fr": "Provincial",
   "jurisdiction": "",
   "language": "English",
+  "language-fr": "French",
   "versionHistory": [
     {"version": 1, "date": "2023-01-01", "comments": ""}
     
