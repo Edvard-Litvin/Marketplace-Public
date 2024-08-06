@@ -1,7 +1,7 @@
 {
   "displayName": "Clinical Findings2",
-  "healthRegion": "Home",
-  "healthRegion-fr": "Provincial",
+  "healthRegion": "Provincial",
+  "healthRegion-fr": "santé",
   "jurisdiction": "",
   "language": "English",
   "versionHistory": [

@@ -1,7 +1,7 @@
 {
   "displayName": "DNA",
-  "healthRegion": "Home",
-  "healthRegion-fr": "Provincial",
+  "healthRegion": "Provincial",
+  "healthRegion-fr": "santé",
   "jurisdiction": "",
   "language": "English",
   "versionHistory": [
