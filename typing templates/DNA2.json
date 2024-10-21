@@ -2,7 +2,8 @@
   "displayName": "DNA2",
   "healthRegion": "Provincial",
   "jurisdiction": "",
-  "language": "French",
+  "language": "English",
+  "language-fr": "française",
   "versionHistory": [
     {"version": 1, "date": "2023-01-01", "comments": ""},
     {"version": 2, "date": "2023-05-01", "comments": "New version from supplier" }
