@@ -1,7 +1,7 @@
 {
   "displayName": "Typeing Test #2",
-  "healthRegion": "",
-  "jurisdiction": "BC",
+  "healthRegion": "Provincial",
+  "jurisdiction": "",
   "language": "English",
   "versionHistory": [
     {"version": 1, "date": "2022-02-03", "comments": ""}
